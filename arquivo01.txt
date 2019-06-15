@@ -1,6 +1,4 @@
-Hello World
-
-Uma terceira linha de código 
+Uma 3ª linha de código 
 
 oi
 oi de novo
@@ -8,3 +6,5 @@ oi mais uma vez
 
 
 alteração criada no dev
+
+Forçando conflito!
